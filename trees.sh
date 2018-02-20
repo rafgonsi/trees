@@ -3,7 +3,7 @@
 usage(){
   echo "usage: $0 [-h] [-d address] [-c] [-l] [-u] [-C] [-t] [-s leaf1,leaf2,...]"
   echo "-h    display help"
-  echo "-d source    Take input file from source. It can be a directory or http address"
+  echo "-d source    Take input file from source. It can be a directory or http address. If this option is not used, take input from stdin"
   echo "-c    Print number of unique leaves from input"
   echo "-l    Print number of all leaves from input"
   echo "-u    Print trees containing different leaves (no leaves repetition in those trees)"
