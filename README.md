@@ -1,2 +1,2 @@
 # trees
-Phylogenetic trees parser in bash 
+Phylogenetic trees files parser in bash 
