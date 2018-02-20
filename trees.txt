@@ -1,0 +1,13 @@
+(a,b,c,d,e,f)
+(a,a,(a,b))
+a
+a
+b
+b
+a
+b
+trz
+(ab,(abb,ba))
+(a5,b6)
+(a,b,a,(a,b,ba))
+(a,ab,(ba,(aba,abb,b)))
