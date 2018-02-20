@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Opcja -S jest dodatkowo. Przypadkiem ją zaimplementowałem sądząc,
-# że właśnie to jest zachowanie oczekiwane po użyciu opcji -s
-
 usage(){
   echo "usage: $0 [-h] [-d address] [-c] [-l] [-u] [-C] [-t] [-s leaf1,leaf2,...]"
   echo "-h    display help"
